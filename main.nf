@@ -1,7 +1,7 @@
 params.mode = 'full'
 
 process DCIFER_WRAPPER_PER_POP_AF {
-    publishDir "results/$params.mode/rel/$sim_id", mode: 'copy'
+    publishDir "$params.resdir/$params.mode/rel/$sim_id", mode: 'copy'
 
     def btwn_host_rel_output = 'btwn_host_rel_output.tsv'
 
@@ -36,7 +36,7 @@ workflow {
     // is a queue that contains all of the inputs you want to process 
     // (in this case, allele tables to estimate relatedness from).
     allele_tables = channel
-        .fromPath('data/simulations/*/allele_table.tsv')
+        .fromPath("$params.simdir/*/allele_table.tsv")
     // If we are running in test mode, just use the first allele table
     if (params.mode == 'test') {
         allele_tables = allele_tables.first()
