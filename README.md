@@ -59,8 +59,8 @@ Brief orientation to the files and directories in this repo:
   might be important is that Dcifer is fixed at 1.3.1 in that other container 
   because I was having a weird issue after some updates Inna made. If you need a 
   newer Dcifer, we need to address this.
-- `launch\_workflow\_{mode}.sh`: These two shell scripts are used for running 
-  the workflow on Rockfish.
+- `launch_workflow_{mode}.sh`: These two shell scripts are used for running the 
+  workflow on Rockfish.
 
 ## Directories
 
