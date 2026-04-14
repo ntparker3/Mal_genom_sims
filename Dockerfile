@@ -126,7 +126,7 @@ RUN R -e 'library("parallelly")'
 # Dcifer - I still need to dig in and troubleshoot
 RUN R -e "remotes::install_github('EPPIcenter/dcifer@v1.3.1')"
 RUN R -e 'library("dcifer")'
-RUN Rscript -e "remotes::install_cran('argparser')"
-RUN R -e 'library("argparser")'
+RUN Rscript -e "remotes::install_cran('argparse')"
+RUN R -e 'library("argparse")'
 RUN Rscript -e "remotes::install_github('PlasmoGenEpi/recombuddy@develop')"
 RUN R -e 'library("recombuddy")'
