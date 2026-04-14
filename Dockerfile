@@ -122,5 +122,11 @@ RUN R -e 'library("doParallel")'
 RUN R -e 'library("parallelly")'
 
 # Additional R packages
-RUN R -e "install.packages(c('dcifer'), repos = c('https://plasmogenepi.r-universe.dev', 'https://cloud.r-project.org'))"
+# For some reason I get an error installing the most recent version of 
+# Dcifer - I still need to dig in and troubleshoot
+RUN R -e "remotes::install_github('EPPIcenter/dcifer@v1.3.1')"
 RUN R -e 'library("dcifer")'
+RUN Rscript -e "remotes::install_cran('argparser')"
+RUN R -e 'library("argparser")'
+RUN Rscript -e "remotes::install_github('PlasmoGenEpi/recombuddy@develop')"
+RUN R -e 'library("recombuddy")'
