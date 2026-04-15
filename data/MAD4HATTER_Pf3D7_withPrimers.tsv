@@ -1,0 +1,273 @@
+#chrom	fullStart	fullStop	newName	fullLen	strand	ID	description	pool	class
+Pf3D7_01_v3	145387	145662	Pf3D7_01_v3-0145420-0145630	275	+	PF3D7_0103300	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_01_v3	162866	163115	Pf3D7_01_v3-0162888-0163092	249	+	PF3D7_0103600	ATP-dependent DNA/RNA helicase PSH1	pool1a	Diversity
+Pf3D7_01_v3	181511	181761	Pf3D7_01_v3-0181544-0181729	250	+	PF3D7_0104100	protein E140, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_01_v3	194741	194973	Pf3D7_01_v3-0194763-0194942	232	+	PF3D7_0104300	ubiquitin carboxyl-terminal hydrolase 1, putative	pool1b,pool5	Resistance
+Pf3D7_01_v3	455793	456054	Pf3D7_01_v3-0455826-0456021	261	+	NA	NA	pool1a	Diversity
+Pf3D7_01_v3	528858	529104	Pf3D7_01_v3-0528889-0529073	246	+	PF3D7_0113800	DBL containing protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_01_v3	535964	536239	Pf3D7_01_v3-0535994-0536206	275	+	PF3D7_0113800	DBL containing protein, unknown function	pool1a	Diversity
+Pf3D7_02_v3	290579	290821	Pf3D7_02_v3-0290610-0290789	242	+	PF3D7_0207300	serine repeat antigen 8	pool1a,pool1a-reduced	Diversity
+Pf3D7_02_v3	291769	292017	Pf3D7_02_v3-0291801-0291984	248	+	PF3D7_0207300	serine repeat antigen 8	pool1a,pool1a-reduced	Diversity
+Pf3D7_02_v3	320651	320949	Pf3D7_02_v3-0320675-0320924	298	+	PF3D7_0207900	serine repeat antigen 2	pool2	Diagnostic
+Pf3D7_02_v3	470436	470709	Pf3D7_02_v3-0470469-0470676	273	+	PF3D7_0211700	tyrosine kinase-like protein, putative	pool1a	Diversity
+Pf3D7_02_v3	503039	503288	Pf3D7_02_v3-0503071-0503260	249	+	PF3D7_0212400	nucleoporin NUP390, putative	pool1a	Diversity
+Pf3D7_02_v3	628940	629172	Pf3D7_02_v3-0628973-0629143	232	+	PF3D7_0215300	acyl-CoA synthetase	pool1a	Diversity
+Pf3D7_02_v3	630640	630907	Pf3D7_02_v3-0630673-0630874	267	+	PF3D7_0215300	acyl-CoA synthetase	pool1a	Diversity
+Pf3D7_03_v3	85506	85756	Pf3D7_03_v3-0085539-0085723	250	+	PF3D7_0301400	Plasmodium exported protein, unknown function	pool1a	Diversity
+Pf3D7_03_v3	221184	221419	Pf3D7_03_v3-0221217-0221388	235	+	PF3D7_0304600	circumsporozoite (CS) protein	pool1b,pool5	Immune
+Pf3D7_03_v3	221294	221532	Pf3D7_03_v3-0221327-0221511	238	+	PF3D7_0304600	circumsporozoite (CS) protein	pool2	Immune
+Pf3D7_03_v3	221462	221712	Pf3D7_03_v3-0221484-0221679	250	+	PF3D7_0304600	circumsporozoite (CS) protein	pool1b,pool5	Immune
+Pf3D7_03_v3	240956	241256	Pf3D7_03_v3-0240989-0241224	300	+	PF3D7_0305100	conserved Plasmodium protein, unknown function	pool2	Diagnostic
+Pf3D7_03_v3	515417	515657	Pf3D7_03_v3-0515440-0515629	240	+	PF3D7_0312100	E3 ubiquitin-protein ligase	pool1a	Diversity
+Pf3D7_03_v3	653960	654206	Pf3D7_03_v3-0653993-0654177	246	+	PF3D7_0316200	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_03_v3	855425	855697	Pf3D7_03_v3-0855455-0855664	272	+	PF3D7_0320400	oocyst capsule protein Cap380	pool1a	Diversity
+Pf3D7_03_v3	891552	891827	Pf3D7_03_v3-0891585-0891794	275	+	PF3D7_0321300	conserved Plasmodium protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_03_v3	980764	980997	Pf3D7_03_v3-0980796-0980964	233	+	PF3D7_0323400	Rh5 interacting protein	pool1b	Immune
+Pf3D7_03_v3	980852	981120	Pf3D7_03_v3-0980885-0981092	268	+	PF3D7_0323400	Rh5 interacting protein	pool2	Immune
+Pf3D7_03_v3	981573	981823	Pf3D7_03_v3-0981606-0981797	250	+	PF3D7_0323400	Rh5 interacting protein	pool1b	Immune
+Pf3D7_03_v3	981920	982191	Pf3D7_03_v3-0981945-0982163	271	+	PF3D7_0323400	Rh5 interacting protein	pool1b	Immune
+Pf3D7_03_v3	982298	982523	Pf3D7_03_v3-0982331-0982491	225	+	PF3D7_0323400	Rh5 interacting protein	pool1b	Immune
+Pf3D7_04_v3	109938	110184	Pf3D7_04_v3-0109961-0110151	246	+	PF3D7_0401900	acyl-CoA synthetase	pool1a,pool1a-reduced	Diversity
+Pf3D7_04_v3	115454	115684	Pf3D7_04_v3-0115483-0115652	230	+	PF3D7_0402000	Plasmodium exported protein (PHISTa), unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_04_v3	133580	133830	Pf3D7_04_v3-0133612-0133801	250	+	NA	NA	pool1a	Diversity
+Pf3D7_04_v3	133927	134154	Pf3D7_04_v3-0133960-0134121	227	+	NA	NA	pool1a	Diversity
+Pf3D7_04_v3	140316	140548	Pf3D7_04_v3-0140349-0140516	232	+	PF3D7_0402300	reticulocyte binding protein homologue 1	pool1a	Diversity
+Pf3D7_04_v3	141740	141990	Pf3D7_04_v3-0141761-0141957	250	+	PF3D7_0402300	reticulocyte binding protein homologue 1	pool1a	Diversity
+Pf3D7_04_v3	284120	284364	Pf3D7_04_v3-0284153-0284333	244	+	PF3D7_0405300	liver specific protein 2, putative	pool1a	Diversity
+Pf3D7_04_v3	316592	316858	Pf3D7_04_v3-0316623-0316825	266	+	PF3D7_0405900	apical sushi protein	pool1a	Diversity
+Pf3D7_04_v3	544453	544718	Pf3D7_04_v3-0544486-0544685	265	+	PF3D7_0412300	phosphopantothenoylcysteine synthetase, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_04_v3	648064	648332	Pf3D7_04_v3-0648096-0648299	268	+	PF3D7_0414200	calmodulin-like protein	pool1a	Diversity
+Pf3D7_04_v3	748104	748359	Pf3D7_04_v3-0748128-0748326	255	+	PF3D7_0417200	bifunctional dihydrofolate reductase-thymidylate synthase	pool1b,pool5	Resistance
+Pf3D7_04_v3	748373	748611	Pf3D7_04_v3-0748406-0748581	238	+	PF3D7_0417200	bifunctional dihydrofolate reductase-thymidylate synthase	pool1b,pool5	Resistance
+Pf3D7_04_v3	748584	748822	Pf3D7_04_v3-0748617-0748789	238	+	PF3D7_0417200	bifunctional dihydrofolate reductase-thymidylate synthase	pool2	Resistance
+Pf3D7_04_v3	900525	900759	Pf3D7_04_v3-0900558-0900729	234	+	PF3D7_0420000	zinc finger protein, putative	pool1a	Diversity
+Pf3D7_04_v3	1005937	1006187	Pf3D7_04_v3-1005970-1006155	250	+	PF3D7_0422200	erythrocyte membrane-associated antigen	pool1a,pool1a-reduced	Diversity
+Pf3D7_04_v3	1037643	1037891	Pf3D7_04_v3-1037676-1037859	248	+	PF3D7_0422500	pre-mRNA-splicing helicase BRR2, putative	pool1a	Diversity
+Pf3D7_04_v3	1077326	1077562	Pf3D7_04_v3-1077359-1077536	236	+	PF3D7_0423800	cysteine-rich protective antigen	pool1b	Immune
+Pf3D7_04_v3	1082775	1083049	Pf3D7_04_v3-1082808-1083016	274	+	PF3D7_0424100	reticulocyte binding protein homologue 5	pool1b	Immune
+Pf3D7_04_v3	1083094	1083331	Pf3D7_04_v3-1083126-1083298	237	+	PF3D7_0424100	reticulocyte binding protein homologue 5	pool1b	Immune
+Pf3D7_04_v3	1083298	1083563	Pf3D7_04_v3-1083331-1083530	265	+	PF3D7_0424100	reticulocyte binding protein homologue 5	pool2	Immune
+Pf3D7_04_v3	1083410	1083668	Pf3D7_04_v3-1083442-1083635	258	+	PF3D7_0424100	reticulocyte binding protein homologue 5	pool1b	Immune
+Pf3D7_04_v3	1113396	1113639	Pf3D7_04_v3-1113421-1113612	243	+	PF3D7_0424600	Plasmodium exported protein (PHISTb)	pool1a	Diversity
+Pf3D7_05_v3	213026	213251	Pf3D7_05_v3-0213059-0213219	225	+	PF3D7_0505000	MMS19-like protein, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	350807	351052	Pf3D7_05_v3-0350840-0351019	245	+	PF3D7_0508500	ND6 protein, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	369675	369949	Pf3D7_05_v3-0369705-0369916	274	+	PF3D7_0508900	protein AAP6	pool1a	Diversity
+Pf3D7_05_v3	395886	396136	Pf3D7_05_v3-0395919-0396103	250	+	PF3D7_0509400	RNA polymerase I	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	550802	551072	Pf3D7_05_v3-0550834-0551043	270	+	PF3D7_0512800	conserved Plasmodium protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	615378	615678	Pf3D7_05_v3-0615411-0615646	300	+	PF3D7_0514800	inositol polyphosphate multikinase, putative	pool2	Diagnostic
+Pf3D7_05_v3	641130	641404	Pf3D7_05_v3-0641162-0641373	274	+	PF3D7_0515500	gametogenesis essential protein 1, putative	pool1a	Diversity
+Pf3D7_05_v3	668762	669004	Pf3D7_05_v3-0668787-0668979	242	+	PF3D7_0516100	cation-transporting ATPase 1	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	796517	796759	Pf3D7_05_v3-0796550-0796728	242	+	PF3D7_0519300	protoheme IX farnesyltransferase	pool1a,pool1a-reduced	Diversity
+Pf3D7_05_v3	958078	958350	Pf3D7_05_v3-0958105-0958317	272	+	PF3D7_0523000	multidrug resistance protein 1	pool1b,pool5	Resistance
+Pf3D7_05_v3	958371	958608	Pf3D7_05_v3-0958394-0958580	237	+	PF3D7_0523000	multidrug resistance protein 1	pool1b,pool5	Resistance
+Pf3D7_05_v3	958919	959168	Pf3D7_05_v3-0958952-0959135	249	+	PF3D7_0523000	multidrug resistance protein 1	pool1b,pool5	Resistance
+Pf3D7_05_v3	960809	961048	Pf3D7_05_v3-0960841-0961021	239	+	PF3D7_0523000	multidrug resistance protein 1	pool1b,pool5	Resistance
+Pf3D7_05_v3	961510	961758	Pf3D7_05_v3-0961543-0961730	248	+	PF3D7_0523000	multidrug resistance protein 1	pool1b,pool5	Resistance
+Pf3D7_05_v3	1188455	1188706	Pf3D7_05_v3-1188488-1188673	251	+	PF3D7_0529000	T-cell immunomodulatory protein homolog, putative	pool1a	Diversity
+Pf3D7_05_v3	1322098	1322341	Pf3D7_05_v3-1322131-1322313	243	+	NA	NA	pool1a,pool1a-reduced	Diversity
+Pf3D7_06_v3	145284	145531	Pf3D7_06_v3-0145317-0145502	247	+	PF3D7_0603600	male development protein MD4, putative	pool1a	Diversity
+Pf3D7_06_v3	176107	176338	Pf3D7_06_v3-0176138-0176305	231	+	PF3D7_0604100	AP2 domain transcription factor	pool1a	Diversity
+Pf3D7_06_v3	416461	416720	Pf3D7_06_v3-0416486-0416688	259	+	PF3D7_0609700	protein KIC6	pool1a	Diversity
+Pf3D7_06_v3	532165	532407	Pf3D7_06_v3-0532194-0532380	242	+	PF3D7_0612900	nucleolar GTP-binding protein 1, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_06_v3	851491	851765	Pf3D7_06_v3-0851515-0851740	274	+	PF3D7_0620400	merozoite surface protein 10	pool1a,pool1a-reduced	Diversity
+Pf3D7_06_v3	857453	857753	Pf3D7_06_v3-0857486-0857720	300	+	PF3D7_0620600	conserved Plasmodium protein, unknown function	pool2	Diagnostic
+Pf3D7_06_v3	1115899	1116168	Pf3D7_06_v3-1115931-1116136	269	+	PF3D7_0627800	acetyl-CoA synthetase	pool1a	Diversity
+Pf3D7_06_v3	1128557	1128797	Pf3D7_06_v3-1128590-1128771	240	+	PF3D7_0628100	HECT domain-containing protein 1, putative	pool1a	Diversity
+Pf3D7_06_v3	1135604	1135855	Pf3D7_06_v3-1135637-1135827	251	+	PF3D7_0628100	HECT domain-containing protein 1, putative	pool1a	Diversity
+Pf3D7_06_v3	1136090	1136364	Pf3D7_06_v3-1136121-1136332	274	+	PF3D7_0628100	HECT domain-containing protein 1, putative	pool1a	Diversity
+Pf3D7_06_v3	1140899	1141174	Pf3D7_06_v3-1140924-1141141	275	+	PF3D7_0628100	HECT domain-containing protein 1, putative	pool1a	Diversity
+Pf3D7_06_v3	1192627	1192867	Pf3D7_06_v3-1192659-1192836	240	+	PF3D7_0628900	RAP protein, putative	pool1a	Diversity
+Pf3D7_06_v3	1197244	1197515	Pf3D7_06_v3-1197277-1197483	271	+	PF3D7_0629100	nicotinate phosphoribosyltransferase, putative	pool1a	Diversity
+Pf3D7_06_v3	1214814	1215069	Pf3D7_06_v3-1214845-1215036	255	+	PF3D7_0629500	amino acid transporter AAT1	pool1b	Resistance
+Pf3D7_06_v3	1215235	1215502	Pf3D7_06_v3-1215267-1215479	267	+	PF3D7_0629500	amino acid transporter AAT1	pool1b	Resistance
+Pf3D7_06_v3	1215494	1215756	Pf3D7_06_v3-1215515-1215727	262	+	PF3D7_0629500	amino acid transporter AAT1	pool1b	Resistance
+Pf3D7_06_v3	1235394	1235658	Pf3D7_06_v3-1235427-1235625	264	+	PF3D7_0629700	SET domain protein, putative	pool1a	Diversity
+Pf3D7_06_v3	1282655	1282930	Pf3D7_06_v3-1282687-1282898	275	+	PF3D7_0630600	deubiquitinating enzyme MINDY, putative	pool1a	Diversity
+Pf3D7_07_v3	105171	105442	Pf3D7_07_v3-0105200-0105414	271	+	PF3D7_0702500	Plasmodium exported protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_07_v3	403478	403716	Pf3D7_07_v3-0403499-0403683	238	+	PF3D7_0709000	chloroquine resistance transporter	pool1b,pool5	Resistance
+Pf3D7_07_v3	403486	403750	Pf3D7_07_v3-0403507-0403717	264	+	PF3D7_0709000	chloroquine resistance transporter	pool2	Resistance
+Pf3D7_07_v3	403800	404052	Pf3D7_07_v3-0403833-0404021	252	+	PF3D7_0709000	chloroquine resistance transporter	pool1b,pool5	Resistance
+Pf3D7_07_v3	404324	404590	Pf3D7_07_v3-0404357-0404564	266	+	PF3D7_0709000	chloroquine resistance transporter	pool1b,pool5	Resistance
+Pf3D7_07_v3	404775	405006	Pf3D7_07_v3-0404808-0404981	231	+	PF3D7_0709000	chloroquine resistance transporter	pool1b	Resistance
+Pf3D7_07_v3	405333	405576	Pf3D7_07_v3-0405357-0405543	243	+	PF3D7_0709000	chloroquine resistance transporter	pool1b	Resistance
+Pf3D7_07_v3	405516	405773	Pf3D7_07_v3-0405549-0405743	257	+	PF3D7_0709000	chloroquine resistance transporter	pool2	Resistance
+Pf3D7_07_v3	405569	405844	Pf3D7_07_v3-0405597-0405815	275	+	PF3D7_0709000	chloroquine resistance transporter	pool1b,pool5	Resistance
+Pf3D7_07_v3	432831	433091	Pf3D7_07_v3-0432855-0433064	260	+	PF3D7_0709600	ribonucleases P/MRP protein subunit POP1, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_07_v3	475312	475545	Pf3D7_07_v3-0475343-0475512	233	+	PF3D7_0710400	DNA repair protein RAD14, putative	pool1a	Diversity
+Pf3D7_07_v3	627350	627625	Pf3D7_07_v3-0627381-0627592	275	+	PF3D7_0713900	conserved Plasmodium protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_07_v3	717259	717493	Pf3D7_07_v3-0717292-0717461	234	+	PF3D7_0716300	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_07_v3	729479	729750	Pf3D7_07_v3-0729507-0729725	271	+	PF3D7_0716700	conserved Plasmodium protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_07_v3	896612	896849	Pf3D7_07_v3-0896645-0896816	237	+	PF3D7_0720700	phosphoinositide-binding protein PX1	pool1b,pool5	Resistance
+Pf3D7_07_v3	1028329	1028603	Pf3D7_07_v3-1028361-1028570	274	+	PF3D7_0724600	protein kinase, putative	pool1a	Diversity
+Pf3D7_07_v3	1043980	1044225	Pf3D7_07_v3-1044011-1044195	245	+	PF3D7_0724700	bromodomain protein 6, putative	pool1a	Diversity
+Pf3D7_07_v3	1066660	1066903	Pf3D7_07_v3-1066693-1066879	243	+	PF3D7_0725100	conserved Plasmodium membrane protein, unknown function	pool1a	Diversity
+Pf3D7_07_v3	1149366	1149613	Pf3D7_07_v3-1149398-1149585	247	+	PF3D7_0727000	vacuolar protein sorting-associated protein 53, putative	pool1a	Diversity
+Pf3D7_08_v3	102276	102527	Pf3D7_08_v3-0102308-0102500	251	+	PF3D7_0801300	von Willebrand factor A domain-related protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_08_v3	336420	336651	Pf3D7_08_v3-0336453-0336618	231	+	PF3D7_0806200	Dpy-19-like C-mannosyltransferase	pool1a,pool1a-reduced	Diversity
+Pf3D7_08_v3	399692	399961	Pf3D7_08_v3-0399718-0399934	269	+	PF3D7_0807800	26S proteasome regulatory subunit RPN10, putative	pool1a	Diversity
+Pf3D7_08_v3	412800	413062	Pf3D7_08_v3-0412833-0413029	262	+	PF3D7_0808100	AP-3 complex subunit delta, putative	pool1a	Diversity
+Pf3D7_08_v3	476231	476475	Pf3D7_08_v3-0476264-0476442	244	+	PF3D7_0809400	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	549582	549807	Pf3D7_08_v3-0549609-0549776	225	+	PF3D7_0810800	hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase	pool1b,pool5	Resistance
+Pf3D7_08_v3	549959	550215	Pf3D7_08_v3-0549988-0550182	256	+	PF3D7_0810800	hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase	pool1b,pool5	Resistance
+Pf3D7_08_v3	550056	550318	Pf3D7_08_v3-0550089-0550294	262	+	PF3D7_0810800	hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase	pool2	Resistance
+Pf3D7_08_v3	585330	585590	Pf3D7_08_v3-0585363-0585562	260	+	PF3D7_0811600	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	585702	585949	Pf3D7_08_v3-0585735-0585916	247	+	PF3D7_0811600	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	585992	586266	Pf3D7_08_v3-0586024-0586233	274	+	PF3D7_0811600	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	1056677	1056903	Pf3D7_08_v3-1056702-1056878	226	+	PF3D7_0824200	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	1099718	1099977	Pf3D7_08_v3-1099750-1099944	259	+	PF3D7_0825500	protein KRI1, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_08_v3	1176312	1176549	Pf3D7_08_v3-1176345-1176524	237	+	PF3D7_0827100	translation initiation factor IF-2, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_08_v3	1313087	1313338	Pf3D7_08_v3-1313119-1313308	251	+	PF3D7_0830800	surface-associated interspersed protein 8.2 (SURFIN 8.2)	pool1a	Diversity
+Pf3D7_08_v3	1314716	1314986	Pf3D7_08_v3-1314743-1314953	270	+	PF3D7_0830800	surface-associated interspersed protein 8.2 (SURFIN 8.2)	pool1a	Diversity
+Pf3D7_08_v3	1344617	1344845	Pf3D7_08_v3-1344650-1344813	228	+	PF3D7_0831400	Plasmodium exported protein, unknown function	pool1a	Diversity
+Pf3D7_08_v3	1365708	1365954	Pf3D7_08_v3-1365741-1365924	246	+	PF3D7_0831700	heat shock protein 70	pool1b,pool5	Diagnostic
+Pf3D7_08_v3	1365749	1365999	Pf3D7_08_v3-1365782-1365968	250	+	PF3D7_0831700	heat shock protein 70	pool2	Diagnostic
+Pf3D7_08_v3	1366574	1366822	Pf3D7_08_v3-1366599-1366795	248	+	PF3D7_0831700	heat shock protein 70	pool2	Diagnostic
+Pf3D7_08_v3	1366625	1366856	Pf3D7_08_v3-1366658-1366823	231	+	PF3D7_0831700	heat shock protein 70	pool1b,pool5	Diagnostic
+Pf3D7_08_v3	1370602	1370853	Pf3D7_08_v3-1370632-1370825	251	+	NA	NA	pool1b,pool5	Diagnostic
+Pf3D7_08_v3	1370813	1371045	Pf3D7_08_v3-1370846-1371012	232	+	NA	NA	pool2	Diagnostic
+Pf3D7_08_v3	1375024	1375284	Pf3D7_08_v3-1375056-1375259	260	+	PF3D7_0831800	histidine-rich protein II	pool1b,pool5	Diagnostic
+Pf3D7_08_v3	1375204	1375450	Pf3D7_08_v3-1375237-1375418	246	+	PF3D7_0831800	histidine-rich protein II	pool2	Diagnostic
+Pf3D7_08_v3	1386785	1387035	Pf3D7_08_v3-1386816-1387005	250	+	NA	NA	pool2	Diagnostic
+Pf3D7_08_v3	1386794	1387043	Pf3D7_08_v3-1386821-1387013	249	+	NA	NA	pool1b,pool5	Diagnostic
+Pf3D7_09_v3	82005	82236	Pf3D7_09_v3-0082033-0082203	231	+	PF3D7_0901700	Plasmodium exported protein (hyp5), unknown function	pool1a	Diversity
+Pf3D7_09_v3	163812	164052	Pf3D7_09_v3-0163845-0164021	240	+	PF3D7_0903500	nucleoporin NUP138, putative	pool1a	Diversity
+Pf3D7_09_v3	164044	164311	Pf3D7_09_v3-0164074-0164287	267	+	PF3D7_0903500	nucleoporin NUP138, putative	pool1a	Diversity
+Pf3D7_09_v3	202853	203106	Pf3D7_09_v3-0202886-0203076	253	+	PF3D7_0904300	conserved protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_09_v3	270914	271160	Pf3D7_09_v3-0270941-0271136	246	+	PF3D7_0905400	high molecular weight rhoptry protein 3	pool1a	Diversity
+Pf3D7_09_v3	516734	517007	Pf3D7_09_v3-0516766-0516980	273	+	PF3D7_0911300	cysteine repeat modular protein 1	pool1a	Diversity
+Pf3D7_09_v3	595827	596094	Pf3D7_09_v3-0595860-0596063	267	+	PF3D7_0913900	arginine--tRNA ligase, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_09_v3	685559	685825	Pf3D7_09_v3-0685587-0685792	266	+	PF3D7_0916400	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_09_v3	1015102	1015350	Pf3D7_09_v3-1015130-1015317	248	+	PF3D7_0925100	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_09_v3	1406341	1406614	Pf3D7_09_v3-1406371-1406581	273	+	PF3D7_0935600	gametocytogenesis-implicated protein	pool1a	Diversity
+Pf3D7_10_v3	490604	490877	Pf3D7_10_v3-0490637-0490844	273	+	PF3D7_1012700	NLI interacting factor-like phosphatase, putative	pool1b	Resistance
+Pf3D7_10_v3	992330	992603	Pf3D7_10_v3-0992362-0992570	273	+	PF3D7_1023700	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_10_v3	992595	992869	Pf3D7_10_v3-0992621-0992836	274	+	PF3D7_1023700	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_10_v3	1386656	1386909	Pf3D7_10_v3-1386689-1386876	253	+	PF3D7_1035000	U2 snRNA/tRNA pseudouridine synthase, putative	pool1a	Diversity
+Pf3D7_10_v3	1392370	1392620	Pf3D7_10_v3-1392399-1392588	250	+	PF3D7_1035100	probable protein, unknown function	pool1a	Diversity
+Pf3D7_10_v3	1414336	1414596	Pf3D7_10_v3-1414369-1414565	260	+	PF3D7_1035700	duffy binding-like merozoite surface protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_10_v3	1414598	1414832	Pf3D7_10_v3-1414630-1414799	234	+	PF3D7_1035700	duffy binding-like merozoite surface protein	pool1a	Diversity
+Pf3D7_11_v3	115912	116184	Pf3D7_11_v3-0115945-0116151	272	+	PF3D7_1102400	phosphopantothenate--cysteine ligase, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_11_v3	119431	119705	Pf3D7_11_v3-0119463-0119672	274	+	PF3D7_1102500	gametocyte exported protein 2	pool1a	Diversity
+Pf3D7_11_v3	408284	408534	Pf3D7_11_v3-0408316-0408504	250	+	PF3D7_1110200	pre-mRNA-processing factor 6, putative	pool1a	Diversity
+Pf3D7_11_v3	408542	408771	Pf3D7_11_v3-0408572-0408747	229	+	PF3D7_1110200	pre-mRNA-processing factor 6, putative	pool1a	Diversity
+Pf3D7_11_v3	497276	497548	Pf3D7_11_v3-0497306-0497519	272	+	PF3D7_1113000	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_11_v3	1006692	1006917	Pf3D7_11_v3-1006725-1006893	225	+	PF3D7_1125700	kelch domain-containing protein, putative	pool1a	Diversity
+Pf3D7_11_v3	1018780	1019053	Pf3D7_11_v3-1018813-1019021	273	+	PF3D7_1126100	autophagy-related protein 7, putative	pool1a	Diversity
+Pf3D7_11_v3	1019049	1019319	Pf3D7_11_v3-1019078-1019287	270	+	PF3D7_1126100	autophagy-related protein 7, putative	pool1a	Diversity
+Pf3D7_11_v3	1127073	1127316	Pf3D7_11_v3-1127103-1127294	243	+	PF3D7_1129100	parasitophorous vacuolar protein 1	pool1a	Diversity
+Pf3D7_11_v3	1293918	1294168	Pf3D7_11_v3-1293943-1294136	250	+	PF3D7_1133400	apical membrane antigen 1	pool1a,pool1a-reduced	Diversity
+Pf3D7_11_v3	1294283	1294580	Pf3D7_11_v3-1294305-1294547	297	+	PF3D7_1133400	apical membrane antigen 1	pool1b,pool5	Diagnostic
+Pf3D7_11_v3	1294663	1294910	Pf3D7_11_v3-1294690-1294888	247	+	PF3D7_1133400	apical membrane antigen 1	pool1a,pool1a-reduced	Diversity
+Pf3D7_11_v3	1295102	1295335	Pf3D7_11_v3-1295135-1295311	233	+	PF3D7_1133400	apical membrane antigen 1	pool1a,pool1a-reduced	Diversity
+Pf3D7_11_v3	1295370	1295597	Pf3D7_11_v3-1295397-1295564	227	+	PF3D7_1133400	apical membrane antigen 1	pool1a	Diversity
+Pf3D7_11_v3	1374916	1375148	Pf3D7_11_v3-1374946-1375115	232	+	PF3D7_1135100	protein phosphatase PPM8, putative	pool1a	Diversity
+Pf3D7_11_v3	1375806	1376056	Pf3D7_11_v3-1375839-1376024	250	+	PF3D7_1135100	protein phosphatase PPM8, putative	pool1a	Diversity
+Pf3D7_11_v3	1376057	1376305	Pf3D7_11_v3-1376086-1376276	248	+	PF3D7_1135100	protein phosphatase PPM8, putative	pool1a	Diversity
+Pf3D7_11_v3	1816151	1816378	Pf3D7_11_v3-1816178-1816346	227	+	PF3D7_1145800	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_11_v3	1902033	1902278	Pf3D7_11_v3-1902064-1902257	245	+	PF3D7_1147800	membrane associated erythrocyte binding-like protein	pool1b	Diagnostic
+Pf3D7_11_v3	1902040	1902278	Pf3D7_11_v3-1902070-1902253	238	+	PF3D7_1147800	membrane associated erythrocyte binding-like protein	pool2	Diagnostic
+Pf3D7_11_v3	1934961	1935236	Pf3D7_11_v3-1934989-1935203	275	+	PF3D7_1148700	Plasmodium exported protein (PHISTc), unknown function	pool1a	Diversity
+Pf3D7_11_v3	1950400	1950636	Pf3D7_11_v3-1950426-1950606	236	+	PF3D7_1149000	antigen 332, DBL-like protein	pool1b	Diagnostic
+Pf3D7_11_v3	1950430	1950680	Pf3D7_11_v3-1950459-1950650	250	+	PF3D7_1149000	antigen 332, DBL-like protein	pool2	Diagnostic
+Pf3D7_11_v3	1968030	1968273	Pf3D7_11_v3-1968063-1968242	243	+	PF3D7_1149000	antigen 332, DBL-like protein	pool1b	Diagnostic
+Pf3D7_11_v3	1968049	1968296	Pf3D7_11_v3-1968082-1968268	247	+	PF3D7_1149000	antigen 332, DBL-like protein	pool2	Diagnostic
+Pf3D7_11_v3	2001720	2001954	Pf3D7_11_v3-2001753-2001929	234	+	PF3D7_1149600	DnaJ protein, putative	pool1b	Diagnostic
+Pf3D7_11_v3	2001724	2001999	Pf3D7_11_v3-2001757-2001969	275	+	PF3D7_1149600	DnaJ protein, putative	pool2	Diagnostic
+Pf3D7_11_v3	2001968	2002222	Pf3D7_11_v3-2001998-2002198	254	+	PF3D7_1149600	DnaJ protein, putative	pool1b	Diagnostic
+Pf3D7_12_v3	63080	63314	Pf3D7_12_v3-0063113-0063281	234	+	PF3D7_1200700	acyl-CoA synthetase	pool1a	Diversity
+Pf3D7_12_v3	233417	233671	Pf3D7_12_v3-0233445-0233639	254	+	PF3D7_1205400	kelch domain-containing protein, putative	pool1a	Diversity
+Pf3D7_12_v3	529494	529767	Pf3D7_12_v3-0529526-0529735	273	+	PF3D7_1211900	non-SERCA-type Ca2+ -transporting P-ATPase	pool1a	Diversity
+Pf3D7_12_v3	659880	660127	Pf3D7_12_v3-0659902-0660096	247	+	PF3D7_1216600	cell traversal protein for ookinetes and sporozoites	pool1a,pool1a-reduced	Diversity
+Pf3D7_12_v3	684010	684240	Pf3D7_12_v3-0684043-0684207	230	+	PF3D7_1217300	GTP-binding protein EngA	pool1a	Diversity
+Pf3D7_12_v3	857049	857323	Pf3D7_12_v3-0857082-0857293	274	+	PF3D7_1221400	inner membrane complex protein 1h, putative	pool1a	Diversity
+Pf3D7_12_v3	1959643	1959891	Pf3D7_12_v3-1959668-1959858	248	+	PF3D7_1247500	serine/threonine protein kinase, putative	pool1a	Diversity
+Pf3D7_12_v3	2092528	2092798	Pf3D7_12_v3-2092558-2092765	270	+	PF3D7_1251200	coronin	pool1b,pool5	Resistance
+Pf3D7_12_v3	2092653	2092884	Pf3D7_12_v3-2092682-2092852	231	+	PF3D7_1251200	coronin	pool2	Resistance
+Pf3D7_13_v3	146694	146934	Pf3D7_13_v3-0146724-0146904	240	+	PF3D7_1302700	ATP-dependent RNA helicase DHR1, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	156455	156685	Pf3D7_13_v3-0156486-0156652	230	+	PF3D7_1302900	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	156712	156986	Pf3D7_13_v3-0156745-0156956	274	+	PF3D7_1302900	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	388137	388408	Pf3D7_13_v3-0388170-0388378	271	+	PF3D7_1308400	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	479568	479811	Pf3D7_13_v3-0479601-0479778	243	+	PF3D7_1311100	meiosis-specific nuclear structural protein 1, putative	pool1a	Diversity
+Pf3D7_13_v3	748253	748510	Pf3D7_13_v3-0748286-0748477	257	+	PF3D7_1318100	ferredoxin	pool1b,pool5	Resistance
+Pf3D7_13_v3	815861	816091	Pf3D7_13_v3-0815894-0816058	230	+	PF3D7_1319700	protein phosphatase PP2A regulatory subunit A, putative	pool1a	Diversity
+Pf3D7_13_v3	852646	852921	Pf3D7_13_v3-0852679-0852897	275	+	PF3D7_1320700	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	911756	912005	Pf3D7_13_v3-0911782-0911974	249	+	PF3D7_1321900	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	935612	935884	Pf3D7_13_v3-0935644-0935858	272	+	PF3D7_1322200	protein STU2, putative	pool1a	Diversity
+Pf3D7_13_v3	958246	958510	Pf3D7_13_v3-0958275-0958482	264	+	PF3D7_1322700	conserved Plasmodium protein, unknown function	pool1b,pool5	Resistance
+Pf3D7_13_v3	1004739	1005002	Pf3D7_13_v3-1004772-1004969	263	+	PF3D7_1324300	conserved Plasmodium membrane protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	1041592	1041860	Pf3D7_13_v3-1041624-1041829	268	+	PF3D7_1324900	L-lactate dehydrogenase	pool1a,pool1b	Species
+Pf3D7_13_v3	1146763	1147010	Pf3D7_13_v3-1146788-1146982	247	+	PF3D7_1327300	subpellicular microtubule protein 3	pool1a	Diversity
+Pf3D7_13_v3	1233092	1233332	Pf3D7_13_v3-1233117-1233299	240	+	PF3D7_1329100	myosin F, putative	pool1a	Diversity
+Pf3D7_13_v3	1265493	1265726	Pf3D7_13_v3-1265526-1265694	233	+	PF3D7_1329800	conserved Plasmodium protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	1350854	1351093	Pf3D7_13_v3-1350887-1351062	239	+	PF3D7_1332900	isoleucine--tRNA ligase, putative	pool1a	Diversity
+Pf3D7_13_v3	1406712	1406975	Pf3D7_13_v3-1406745-1406947	263	+	PF3D7_1334500	MSP7-like protein	pool1a	Diversity
+Pf3D7_13_v3	1419362	1419626	Pf3D7_13_v3-1419395-1419601	264	+	PF3D7_1335100	merozoite surface protein 7	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	1465009	1465307	Pf3D7_13_v3-1465035-1465280	298	+	PF3D7_1335900	thrombospondin-related anonymous protein	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	1465615	1465890	Pf3D7_13_v3-1465638-1465870	275	+	PF3D7_1335900	thrombospondin-related anonymous protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	1465900	1466157	Pf3D7_13_v3-1465925-1466124	257	+	PF3D7_1335900	thrombospondin-related anonymous protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	1724894	1725166	Pf3D7_13_v3-1724925-1725137	272	+	PF3D7_1343700	kelch protein K13	pool1b,pool5	Resistance
+Pf3D7_13_v3	1725123	1725365	Pf3D7_13_v3-1725151-1725336	242	+	PF3D7_1343700	kelch protein K13	pool2	Resistance
+Pf3D7_13_v3	1725207	1725471	Pf3D7_13_v3-1725231-1725441	264	+	PF3D7_1343700	kelch protein K13	pool1b,pool5	Resistance
+Pf3D7_13_v3	1725378	1725652	Pf3D7_13_v3-1725403-1725620	274	+	PF3D7_1343700	kelch protein K13	pool2	Resistance
+Pf3D7_13_v3	1725463	1725719	Pf3D7_13_v3-1725493-1725694	256	+	PF3D7_1343700	kelch protein K13	pool1b,pool5	Resistance
+Pf3D7_13_v3	1725712	1725955	Pf3D7_13_v3-1725740-1725923	243	+	PF3D7_1343700	kelch protein K13	pool1b	Resistance
+Pf3D7_13_v3	1725886	1726123	Pf3D7_13_v3-1725915-1726094	237	+	PF3D7_1343700	kelch protein K13	pool2	Resistance
+Pf3D7_13_v3	1726056	1726304	Pf3D7_13_v3-1726089-1726271	248	+	PF3D7_1343700	kelch protein K13	pool1b	Resistance
+Pf3D7_13_v3	1726173	1726408	Pf3D7_13_v3-1726206-1726375	235	+	PF3D7_1343700	kelch protein K13	pool2	Resistance
+Pf3D7_13_v3	1726722	1726995	Pf3D7_13_v3-1726755-1726967	273	+	PF3D7_1343700	kelch protein K13	pool1b	Resistance
+Pf3D7_13_v3	1876390	1876664	Pf3D7_13_v3-1876421-1876636	274	+	PF3D7_1346700	6-cysteine protein P48/45	pool1a	Diversity
+Pf3D7_13_v3	2114241	2114482	Pf3D7_13_v3-2114271-2114454	241	+	PF3D7_1352900	Plasmodium exported protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	2114828	2115090	Pf3D7_13_v3-2114854-2115057	262	+	PF3D7_1352900	Plasmodium exported protein, unknown function	pool1a	Diversity
+Pf3D7_13_v3	2504480	2504734	Pf3D7_13_v3-2504513-2504701	254	+	PF3D7_1362500	3'-5' exonuclease, putative	pool1b,pool5	Resistance
+Pf3D7_13_v3	2545064	2545291	Pf3D7_13_v3-2545091-2545258	227	+	PF3D7_1363400	polyubiquitin binding protein, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_13_v3	2770590	2770863	Pf3D7_13_v3-2770622-2770830	273	+	PF3D7_1369500	nuclear cap-binding protein subunit 1, putative	pool2	Diagnostic
+Pf3D7_13_v3	2770620	2770854	Pf3D7_13_v3-2770648-2770821	234	+	PF3D7_1369500	nuclear cap-binding protein subunit 1, putative	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	2780345	2780575	Pf3D7_13_v3-2780366-2780542	230	+	NA	NA	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	2814582	2814832	Pf3D7_13_v3-2814615-2814807	250	+	NA	NA	pool2	Diagnostic
+Pf3D7_13_v3	2814605	2814855	Pf3D7_13_v3-2814630-2814826	250	+	NA	NA	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	2816309	2816554	Pf3D7_13_v3-2816333-2816526	245	+	NA	NA	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	2840446	2840746	Pf3D7_13_v3-2840473-2840721	300	+	PF3D7_1372200	histidine-rich protein III	pool2	Diagnostic
+Pf3D7_13_v3	2840461	2840736	Pf3D7_13_v3-2840494-2840703	275	+	PF3D7_1372200	histidine-rich protein III	pool1b,pool5	Diagnostic
+Pf3D7_13_v3	2841389	2841688	Pf3D7_13_v3-2841410-2841661	299	+	PF3D7_1372200	histidine-rich protein III	pool1b,pool2,pool5	Diagnostic
+Pf3D7_13_v3	2844333	2844629	Pf3D7_13_v3-2844354-2844599	296	+	PF3D7_1372300	Plasmodium exported protein (PHISTa-like)	pool1b,pool2,pool5	Diagnostic
+Pf3D7_14_v3	106866	107115	Pf3D7_14_v3-0106893-0107084	249	+	PF3D7_1402900	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_14_v3	120100	120365	Pf3D7_14_v3-0120133-0120332	265	+	PF3D7_1403200	EGF domain-containing protein, putative	pool1a	Diversity
+Pf3D7_14_v3	137397	137668	Pf3D7_14_v3-0137430-0137636	271	+	PF3D7_1403800	nuclear formin-like protein MISFIT, putative	pool1a	Diversity
+Pf3D7_14_v3	279562	279833	Pf3D7_14_v3-0279590-0279800	271	+	PF3D7_1407700	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_14_v3	283349	283576	Pf3D7_14_v3-0283380-0283552	227	+	PF3D7_1407800	plasmepsin IV	pool1b	Resistance
+Pf3D7_14_v3	283972	284211	Pf3D7_14_v3-0284005-0284184	239	+	PF3D7_1407800	plasmepsin IV	pool1b	Resistance
+Pf3D7_14_v3	288428	288696	Pf3D7_14_v3-0288461-0288664	268	+	PF3D7_1407900	plasmepsin I	pool1b	Resistance
+Pf3D7_14_v3	289300	289550	Pf3D7_14_v3-0289328-0289517	250	+	PF3D7_1407900	plasmepsin I	pool1b	Resistance
+Pf3D7_14_v3	293574	293829	Pf3D7_14_v3-0293607-0293796	255	+	PF3D7_1408000	plasmepsin II	pool1b,pool5	Resistance
+Pf3D7_14_v3	294502	294768	Pf3D7_14_v3-0294534-0294741	266	+	PF3D7_1408000	plasmepsin II	pool2	Resistance
+Pf3D7_14_v3	294505	294753	Pf3D7_14_v3-0294537-0294730	248	+	PF3D7_1408000	plasmepsin II	pool1b,pool5	Resistance
+Pf3D7_14_v3	297582	297856	Pf3D7_14_v3-0297615-0297824	274	+	PF3D7_1408100	plasmepsin III	pool1b,pool5	Resistance
+Pf3D7_14_v3	297934	298162	Pf3D7_14_v3-0297960-0298129	228	+	PF3D7_1408100	plasmepsin III	pool1b	Resistance
+Pf3D7_14_v3	298367	298636	Pf3D7_14_v3-0298400-0298603	269	+	PF3D7_1408100	plasmepsin III	pool1b,pool5	Resistance
+Pf3D7_14_v3	377764	378020	Pf3D7_14_v3-0377797-0377992	256	+	PF3D7_1409700	conserved protein, unknown function	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	407305	407542	Pf3D7_14_v3-0407338-0407509	237	+	PF3D7_1410300	WD repeat-containing protein, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	421321	421547	Pf3D7_14_v3-0421354-0421514	226	+	PF3D7_1410400	rhoptry-associated protein 1	pool1a	Diversity
+Pf3D7_14_v3	771406	771633	Pf3D7_14_v3-0771432-0771601	227	+	PF3D7_1418100	liver specific protein 1, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	854127	854427	Pf3D7_14_v3-0854154-0854394	300	+	PF3D7_1420600	pantothenate kinase 1	pool1b	Diagnostic
+Pf3D7_14_v3	860288	860542	Pf3D7_14_v3-0860314-0860509	254	+	PF3D7_1420700	surface protein P113	pool1b	Immune
+Pf3D7_14_v3	860833	861066	Pf3D7_14_v3-0860865-0861038	233	+	PF3D7_1420700	surface protein P113	pool1b	Immune
+Pf3D7_14_v3	921175	921432	Pf3D7_14_v3-0921208-0921399	257	+	NA	NA	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	1038299	1038538	Pf3D7_14_v3-1038326-1038505	239	+	PF3D7_1426700	phosphoenolpyruvate carboxylase	pool1a	Diversity
+Pf3D7_14_v3	1166106	1166371	Pf3D7_14_v3-1166134-1166338	265	+	PF3D7_1429500	diphthamide biosynthesis protein 2, putative	pool1a	Diversity
+Pf3D7_14_v3	1392836	1393086	Pf3D7_14_v3-1392869-1393059	250	+	PF3D7_1434500	dynein-related AAA-type ATPase, putative	pool1a	Diversity
+Pf3D7_14_v3	1954849	1955124	Pf3D7_14_v3-1954881-1955099	275	+	PF3D7_1447900	multidrug resistance protein 2	pool1b	Resistance
+Pf3D7_14_v3	1956055	1956330	Pf3D7_14_v3-1956088-1956301	275	+	PF3D7_1447900	multidrug resistance protein 2	pool1b,pool5	Resistance
+Pf3D7_14_v3	1956364	1956639	Pf3D7_14_v3-1956395-1956609	275	+	PF3D7_1447900	multidrug resistance protein 2	pool1b	Resistance
+Pf3D7_14_v3	1957217	1957480	Pf3D7_14_v3-1957250-1957447	263	+	PF3D7_1447900	multidrug resistance protein 2	pool1b	Resistance
+Pf3D7_14_v3	1992120	1992370	Pf3D7_14_v3-1992153-1992347	250	+	PF3D7_1448500	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_14_v3	2004361	2004606	Pf3D7_14_v3-2004394-2004574	245	+	PF3D7_1449000	gamete egress and sporozoite traversal protein, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	2020603	2020849	Pf3D7_14_v3-2020636-2020823	246	+	PF3D7_1449400	crossover junction endonuclease MUS81, putative	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	2260532	2260765	Pf3D7_14_v3-2260555-2260737	233	+	PF3D7_1455300	conserved protein, unknown function	pool1a	Diversity
+Pf3D7_14_v3	2355613	2355853	Pf3D7_14_v3-2355645-2355820	240	+	PF3D7_1457400	conserved Plasmodium protein, unknown function	pool1a	Diversity
+Pf3D7_14_v3	2481032	2481276	Pf3D7_14_v3-2481064-2481245	244	+	PF3D7_1460900	ribosomal protein S10, apicoplast, putative	pool1b,pool5	Resistance
+Pf3D7_14_v3	2695836	2696082	Pf3D7_14_v3-2695869-2696052	246	+	PF3D7_1466200	homeodomain-like protein HDP1	pool1a	Diversity
+Pf3D7_14_v3	2733344	2733593	Pf3D7_14_v3-2733377-2733564	249	+	PF3D7_1466800	NOC3 domain-containing protein, putative	pool1a	Diversity
+Pf3D7_14_v3	2858893	2859160	Pf3D7_14_v3-2858925-2859127	267	+	PF3D7_1469600	acetyl-CoA carboxylase	pool1a	Diversity
+Pf3D7_14_v3	3124415	3124655	Pf3D7_14_v3-3124441-3124626	240	+	PF3D7_1475900	KELT protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	3125800	3126073	Pf3D7_14_v3-3125829-3126040	273	+	PF3D7_1475900	KELT protein	pool1a,pool1a-reduced	Diversity
+Pf3D7_14_v3	3214248	3214516	Pf3D7_14_v3-3214281-3214486	268	+	PF3D7_1478000	Plasmodium exported protein (PHISTa), unknown function	pool1a	Diversity
