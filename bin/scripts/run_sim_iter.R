@@ -1,5 +1,5 @@
 library(argparse)
-library(tidyverse)
+library(dplyr)
 library(recombuddy)
 library(dcifer)
 
@@ -68,8 +68,9 @@ ibd_table <- as.data.frame.table(dcifer_result, responseName = "value") %>%
     filter(specimen_a != specimen_b, !is.na(estimate)) %>%
     mutate(iter_id = p$iter_id)
 
-write_tsv(ibd_table, p$dcifer_output)          # COMBINE_SUMMARIES doesn't need this,
-system(paste("gzip", p$dcifer_output))         # but it's saved per-iter as requested
+gz_con <- gzfile(p$dcifer_output, "w")
+write_tsv(ibd_table, gz_con)
+close(gz_con)        # but it's saved per-iter as requested
 
 # ── Per-sample mean/median relatedness (summary row) ─────────────────────────
 mean_ibd <- ibd_table %>%
