@@ -1825,8 +1825,6 @@ simulate_local_ancestors <- function(og_data, gen1_params, gen1_pop_size, gen1_a
   final_og_JD <- mean(calculate_jost_d(og_afreq, final_pop_afreq), na.rm = T)
   final_og_FST <- mean(calculate_FST(og_afreq, final_pop_afreq), na.rm = T)
 
-  ## plot afreq
-  plot_final_og_af <- plot_af(og_afreq, final_pop_afreq, 700)
 
-  return(list(final_pop, final_og_JD, final_og_FST, plot_final_og_af, og_afreq, gen1_afreq, gen2_afreq, gen3_afreq, final_pop_afreq))
+  return(list(final_pop, final_og_JD, final_og_FST, og_afreq, gen1_afreq, gen2_afreq, gen3_afreq, final_pop_afreq))
 }
