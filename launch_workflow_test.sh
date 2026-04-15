@@ -8,7 +8,7 @@
 module load java
 
 nextflow run main.nf \
-    --mode full \
+    --mode test \
     -profile singularity,rockfish \
     --full_sim_dir /data/awesolo2/projects/GenE8_rel_sims/simulations \
     --resdir /data/awesolo2/projects/GenE8_rel_sims/results
