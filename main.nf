@@ -59,7 +59,7 @@ process RUN_SIM_ITER {
         --iter_id           ${iter_id} \
         --seed              ${seed} \
         --sim_pop_size      ${params.sim_pop_size} \
-        --num_samples       ${params.num_samples_per_sim} \
+        --num_samples_per_sim       ${params.num_samples_per_sim} \
         --pop_alpha         ${params.pop_alpha} \
         --coi_r             ${params.coi_r} \
         --coi_p             ${params.coi_p} \
