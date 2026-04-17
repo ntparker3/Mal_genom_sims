@@ -1,6 +1,7 @@
 library(argparse)
 library(dplyr)
 library(readr)
+library(tidyr)
 library(stringr)
 library(recombuddy)
 library(dcifer)
@@ -14,7 +15,7 @@ parser$add_argument("--primers",        required = TRUE)
 parser$add_argument("--iter_id",        type = "integer", required = TRUE)
 parser$add_argument("--seed",           type = "integer", required = TRUE)
 parser$add_argument("--sim_pop_size",   type = "integer", default = 1000)
-parser$add_argument("--num_samples",    type = "integer", default = 100)
+parser$add_argument("--num_samples_per_sim",    type = "integer", default = 100)
 parser$add_argument("--pop_alpha",      type = "double")
 parser$add_argument("--coi_r",          type = "double")
 parser$add_argument("--coi_p",          type = "double")
@@ -60,41 +61,31 @@ dsmp  <- formatDat(intersected, svar = "simulated_sample", lvar = "target", avar
 coi   <- getCOI(dsmp, lrank = 2)
 afreq <- calcAfreq(dsmp, coi, tol = 1e-5)
 
-dcifer_result <- ibdDat(dsmp, coi, afreq,
+dcifer <- ibdDat(dsmp, coi, afreq,
     pval = TRUE, confint = TRUE, rnull = 0, alpha = 0.05, nr = 1e3)
 
-# ── Full dcifer table (what you want to save per-sim) ────────────────────────
-ibd_table <- as.data.frame.table(dcifer_result, responseName = "value") %>%
-    rename(specimen_a = Var1, specimen_b = Var2, metric = Var3) %>%
-    pivot_wider(names_from = metric, values_from = value) %>%
-    filter(specimen_a != specimen_b, !is.na(estimate)) %>%
-    mutate(iter_id = p$iter_id)
 
-gz_con <- gzfile(p$dcifer_output, "w")
-write_tsv(ibd_table, gz_con)
-close(gz_con)        # but it's saved per-iter as requested
+ibd_table <- as.data.frame.table(dcifer, responseName = "value") %>%
+      rename(specimen_a = Var1, specimen_b = Var2, metric = Var3) %>%
+      pivot_wider(names_from = metric, values_from = value) %>%
+      filter(specimen_a != specimen_b, !is.na(estimate)) 
+      
+ibd_table_final <- ibd_table %>%
+      bind_rows(ibd_table %>% rename(specimen_a = specimen_b, specimen_b = specimen_a)  # flipped version
+      )
 
-# ── Per-sample mean/median relatedness (summary row) ─────────────────────────
-mean_ibd <- ibd_table %>%
-    group_by(specimen_a) %>%
-    summarize(
-        mean_relatedness   = mean(estimate,   na.rm = TRUE),
-        median_relatedness = median(estimate, na.rm = TRUE),
-        .groups = "drop"
-    )
-
-sampled_ibd <- mean_ibd %>%
-    slice_sample(n = p$num_samples)
-
-summary_row <- sampled_ibd %>%
-    summarize(
-        iter_id            = p$iter_id,
-        seed               = p$seed,
-        sim_pop_size       = p$sim_pop_size,
-        pop_alpha          = p$pop_alpha,
-        mean_rel_across_samples   = mean(mean_relatedness),
-        median_rel_across_samples = median(mean_relatedness),
-        sd_rel_across_samples     = sd(mean_relatedness)
-    )
+gz_con <- gzfile(p$dcifer_output, "wb")
+write_tsv(ibd_table_final, gz_con)
+close(gz_con)  
+    
+mean_ibd <- ibd_table_final %>% group_by(specimen_a) %>% summarize(mean_relatedness = mean(estimate, na.rm = T),
+                                                                 median_relatedness = median(estimate, na.rm = T))
+    
+sampled_ibd <- mean_ibd %>% filter(specimen_a %in% sample(unique(specimen_a), p$num_samples_per_sim, replace = F))
+    
+summary_row <- data.frame(iter_id = p$iter_id,
+        seed = p$seed, 
+        mean_relatedness = sampled_ibd$mean_relatedness,
+        median_relatedness = sampled_ibd$median_relatedness)
 
 write_tsv(summary_row, p$summary_output)
